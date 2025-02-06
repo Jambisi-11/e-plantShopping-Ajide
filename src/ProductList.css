@@ -19,6 +19,7 @@ body {
     justify-content: space-between;
     align-items: center;
     font-size: 20px;
+    gap:50px;
 }
 
 .navbar .ul {
@@ -65,7 +66,7 @@ body {
     max-width: calc(26.33% - 20px); /* Adjust max-width for 3 cards per row with 20px gap */
     margin-bottom: 20px;
     padding: 20px;
-    height: 57vh;
+    height: 65vh;
     background-color: #fff;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -139,6 +140,7 @@ body {
 }
 .tag a{
     text-decoration: none;
+    margin-left: 10px;
 }
 .tag {
     width: 400px;

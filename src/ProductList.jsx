@@ -159,6 +159,7 @@ function ProductList() {
         color: 'white',
         fontSize: '30px',
         textDecoration: 'none',
+
     };
 
     const handleCartClick = (e) => {
